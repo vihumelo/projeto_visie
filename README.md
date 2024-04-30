@@ -1,5 +1,3 @@
-# Teste Prático Visie Padrões Web
-
 Este é o repositório do meu projeto backend e frontend, onde utilizei algumas tecnologias essenciais.
 
 ## Tecnologias Utilizadas
